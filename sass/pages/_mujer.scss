@@ -1,0 +1,16 @@
+@import "../utilidades/_variables.scss";
+
+/* estilos section woman */
+section div img {
+    width: 100%;
+    height: 100%;
+  }
+  
+  /* estilos de titulo */
+  .botas-borcegos-mujer {
+    margin: 30px;
+  }
+  
+  section .img-mujer-ipad, section .img-mujer-desktop {
+    display: none;
+  }

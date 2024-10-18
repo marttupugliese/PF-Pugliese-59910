@@ -1,0 +1,23 @@
+@import "../utilidades/_variables.scss";
+
+.grey-bg {
+    background-color: #808080;
+  }
+  
+  .gray:hover {
+    background-color: #b2afaf;
+  }
+  
+  .gray-sale {
+    color: #dc143c;
+  }
+  
+  .gray:active {
+    color: #f5f5f5;
+  }
+  
+  .black-elegido {
+    background-color: #000000;
+    border-radius: 20px;
+    border-color: #515454;
+  }

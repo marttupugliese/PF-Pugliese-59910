@@ -1,0 +1,14 @@
+@mixin boton_div($color, $numero){
+    background-color: $color;
+    padding: $numero;
+    text-align: center;
+    width: 20%;
+    margin: 0 auto;
+}
+
+@mixin boton_div_media($color){
+    background-color:$color;
+    padding: 0.5rem;
+    text-align: center;
+}
+
